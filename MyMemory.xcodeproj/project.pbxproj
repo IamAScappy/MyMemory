@@ -38,9 +38,9 @@
 
 /* Begin PBXFileReference section */
 		59D8BBB71EE937EA0086AE39 /* CSLogButon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSLogButon.swift; sourceTree = "<group>"; };
-		59D8BBB91EE938900086AE39 /* memo-background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "memo-background@2x.png"; path = "../../PracticeImage/MyMemory/Chapter03/memo-background@2x.png"; sourceTree = "<group>"; };
-		59D8BBBA1EE938900086AE39 /* button-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "button-bg.png"; path = "../../PracticeImage/MyMemory/Chapter03/button-bg.png"; sourceTree = "<group>"; };
-		59D8BBBB1EE938900086AE39 /* warning-icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "warning-icon-60@2x.png"; path = "../../PracticeImage/MyMemory/Chapter03/warning-icon-60@2x.png"; sourceTree = "<group>"; };
+		59D8BBB91EE938900086AE39 /* memo-background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "memo-background@2x.png"; sourceTree = "<group>"; };
+		59D8BBBA1EE938900086AE39 /* button-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-bg.png"; sourceTree = "<group>"; };
+		59D8BBBB1EE938900086AE39 /* warning-icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "warning-icon-60@2x.png"; sourceTree = "<group>"; };
 		59E1D68B1EE69BF000E4CAC0 /* MyMemory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMemory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		59E1D68E1EE69BF000E4CAC0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		59E1D6931EE69BF000E4CAC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -49,25 +49,25 @@
 		59E1D69B1EE69BF000E4CAC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59E1D69D1EE69BF000E4CAC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59E640BD1EEA5DA400ECB146 /* MyMemory-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyMemory-Bridging-Header.h"; sourceTree = "<group>"; };
-		59E640BE1EEA5DA500ECB146 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SWRevealViewController.m; path = ../../../PracticeImage/MyMemory/Chapter04/SWRevealViewController.m; sourceTree = "<group>"; };
-		59E640BF1EEA5DA500ECB146 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SWRevealViewController.h; path = ../../../PracticeImage/MyMemory/Chapter04/SWRevealViewController.h; sourceTree = "<group>"; };
-		59E640C21EEA5E2000ECB146 /* icon02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon02.png; path = ../../PracticeImage/MyMemory/Chapter04/icon02.png; sourceTree = "<group>"; };
-		59E640C31EEA5E2000ECB146 /* profile-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "profile-bg.png"; path = "../../PracticeImage/MyMemory/Chapter04/profile-bg.png"; sourceTree = "<group>"; };
-		59E640C41EEA5E2000ECB146 /* sidemenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sidemenu.png; path = ../../PracticeImage/MyMemory/Chapter04/sidemenu.png; sourceTree = "<group>"; };
-		59E640C51EEA5E2000ECB146 /* icon04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon04.png; path = ../../PracticeImage/MyMemory/Chapter04/icon04.png; sourceTree = "<group>"; };
-		59E640C61EEA5E2000ECB146 /* icon01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon01.png; path = ../../PracticeImage/MyMemory/Chapter04/icon01.png; sourceTree = "<group>"; };
-		59E640C71EEA5E2000ECB146 /* icon05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon05.png; path = ../../PracticeImage/MyMemory/Chapter04/icon05.png; sourceTree = "<group>"; };
-		59E640C81EEA5E2000ECB146 /* icon03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon03.png; path = ../../PracticeImage/MyMemory/Chapter04/icon03.png; sourceTree = "<group>"; };
-		59E640C91EEA5E2000ECB146 /* icon06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon06.png; path = ../../PracticeImage/MyMemory/Chapter04/icon06.png; sourceTree = "<group>"; };
+		59E640BE1EEA5DA500ECB146 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		59E640BF1EEA5DA500ECB146 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		59E640C21EEA5E2000ECB146 /* icon02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon02.png; sourceTree = "<group>"; };
+		59E640C31EEA5E2000ECB146 /* profile-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "profile-bg.png"; sourceTree = "<group>"; };
+		59E640C41EEA5E2000ECB146 /* sidemenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sidemenu.png; sourceTree = "<group>"; };
+		59E640C51EEA5E2000ECB146 /* icon04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon04.png; sourceTree = "<group>"; };
+		59E640C61EEA5E2000ECB146 /* icon01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon01.png; sourceTree = "<group>"; };
+		59E640C71EEA5E2000ECB146 /* icon05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon05.png; sourceTree = "<group>"; };
+		59E640C81EEA5E2000ECB146 /* icon03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon03.png; sourceTree = "<group>"; };
+		59E640C91EEA5E2000ECB146 /* icon06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon06.png; sourceTree = "<group>"; };
 		59E640D31EEAAF5900ECB146 /* SideBarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideBarVC.swift; sourceTree = "<group>"; };
 		59E640D51EEAB4F200ECB146 /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
-		59E640F91EEAD7A600ECB146 /* account@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "account@2x.jpg"; path = "../../PracticeImage/MyMemory/Chapter04/account@2x.jpg"; sourceTree = "<group>"; };
+		59E640F91EEAD7A600ECB146 /* account@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "account@2x.jpg"; sourceTree = "<group>"; };
 		59F8EF051EE6EE54006B0C8C /* MemoListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListVC.swift; sourceTree = "<group>"; };
 		59F8EF071EE6EE75006B0C8C /* MemoFormVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoFormVC.swift; sourceTree = "<group>"; };
 		59F8EF091EE6EE83006B0C8C /* MemoReadVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoReadVC.swift; sourceTree = "<group>"; };
 		59F8EF0B1EE6EF31006B0C8C /* MemoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoCell.swift; sourceTree = "<group>"; };
 		59F8EF0D1EE6EFE8006B0C8C /* MemoData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoData.swift; sourceTree = "<group>"; };
-		59F8EF101EE7024A006B0C8C /* fountainpen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fountainpen@2x.png"; path = "../../PracticeImage/MyMemory/Chapter01/fountainpen@2x.png"; sourceTree = "<group>"; };
+		59F8EF101EE7024A006B0C8C /* fountainpen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fountainpen@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
